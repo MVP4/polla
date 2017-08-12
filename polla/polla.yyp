@@ -39,14 +39,6 @@
             }
         },
         {
-            "Key": "16b5d79c-51ce-42cd-824b-8d4d982a6d7f",
-            "Value": {
-                "id": "935fd3a9-1b54-414f-a30c-a7185bed4466",
-                "resourcePath": "objects\\obj_polla\\obj_polla.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "2ab723a3-d04e-472d-b323-c06e88183e4e",
             "Value": {
                 "id": "9d86eac1-c2d2-47fc-9029-44d8367be294",
